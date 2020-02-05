@@ -32,3 +32,21 @@ D:\C# Projects\Final Project\App\Registration\obj\Debug\Registration.exe
 D:\C# Projects\Final Project\App\Registration\obj\Debug\Registration.pdb
 D:\C# Projects\Final Project\App\Registration\obj\Debug\Registration.Register.resources
 D:\C# Projects\Final Project\App\Registration\obj\Debug\Registration.Login.resources
+D:\C#\Furniture-Ordering-System\App\Registration\bin\Debug\Registration.exe.config
+D:\C#\Furniture-Ordering-System\App\Registration\bin\Debug\Registration.exe
+D:\C#\Furniture-Ordering-System\App\Registration\bin\Debug\Registration.pdb
+D:\C#\Furniture-Ordering-System\App\Registration\bin\Debug\ControlzEx.dll
+D:\C#\Furniture-Ordering-System\App\Registration\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\C#\Furniture-Ordering-System\App\Registration\bin\Debug\ControlzEx.pdb
+D:\C#\Furniture-Ordering-System\App\Registration\bin\Debug\ControlzEx.xml
+D:\C#\Furniture-Ordering-System\App\Registration\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\C#\Furniture-Ordering-System\App\Registration\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\C#\Furniture-Ordering-System\App\Registration\obj\Debug\Registration.csprojAssemblyReference.cache
+D:\C#\Furniture-Ordering-System\App\Registration\obj\Debug\Registration.Register.resources
+D:\C#\Furniture-Ordering-System\App\Registration\obj\Debug\Registration.Main_UI.resources
+D:\C#\Furniture-Ordering-System\App\Registration\obj\Debug\Registration.Login.resources
+D:\C#\Furniture-Ordering-System\App\Registration\obj\Debug\Registration.Properties.Resources.resources
+D:\C#\Furniture-Ordering-System\App\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+D:\C#\Furniture-Ordering-System\App\Registration\obj\Debug\Registration.csproj.CopyComplete
+D:\C#\Furniture-Ordering-System\App\Registration\obj\Debug\Registration.exe
+D:\C#\Furniture-Ordering-System\App\Registration\obj\Debug\Registration.pdb

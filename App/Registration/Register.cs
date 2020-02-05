@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
+using System.Diagnostics;
+using ControlzEx.Standard;
 //using System.Data.SqlClient.SqlException;
 
 namespace Registration
@@ -16,8 +18,11 @@ namespace Registration
     {
         public Register()
         {
+            var sw = Stopwatch.StartNew();
             InitializeComponent();
             txtPassword.PasswordChar = '*';
+            long ticks = sw.ElapsedTicks;
+            Console.WriteLine(ticks);
         }
 
         private void label2_Click(object sender, EventArgs e)
